@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing tech
 - 🌱 I’m currently learning python, AWS services and AI for devs
 - 💞️ I’m looking to collaborate on anything AWS
-- 📫 How to reach me ...
+- 📫 How to reach me ...Linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: lots. Everyday is a new day!
 
